@@ -1,6 +1,6 @@
 # DSBA 5122 - Class Project
 
-This is the repository for our application that was created for DSBA 5122 - Visual Analytics
+This is the repository for our application that was created for DSBA 5122 - Visual Analytics at UNC Charlotte.
 
 ## Created by
 
