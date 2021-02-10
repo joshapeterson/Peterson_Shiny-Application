@@ -1,6 +1,8 @@
-# DSBA 5122 - Class Project
+# Shiny Application
 
-This is the repository for our application that was created for DSBA 5122 - Visual Analytics at UNC Charlotte.
+## Project Related Information
+
+This is the repository for our Shiny application that was created for DSBA 5122 - Visual Analytics at UNC Charlotte.
 
 ## Created by
 
@@ -8,9 +10,7 @@ This is the repository for our application that was created for DSBA 5122 - Visu
 * Kelly O'Shields
 * Josh Peterson
 
-## Project Related Information
-
-### List of Packages
+### List of Packages Utilized
 
 * shiny
 * shinydashboard
@@ -24,7 +24,7 @@ This is the repository for our application that was created for DSBA 5122 - Visu
 * waiter
 * DT
 
-### Link to Shiny App
+### Link to Shiny Application
 
 https://japeterson.shinyapps.io/updated-app/
 
