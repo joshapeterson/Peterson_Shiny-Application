@@ -4,7 +4,7 @@
 
 This is the repository for our Shiny application that was created for DSBA 5122 - Visual Analytics at UNC Charlotte.
 
-## Created by
+### Created by
 
 * Dipin Kasana
 * Kelly O'Shields
